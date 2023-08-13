@@ -4,7 +4,7 @@ import pandas as pd
 st.title("🧭 Pathfinder Career Mapping")
 
 st.write("""
-### Welcome to Pathfinder Education!
+### Welcome to Pathfinder Career Mapping!
 This app provides tools to explore and match your interests and values with potential career paths. 
 You can navigate through the app using the sidebar:
 - **Occupation Matching Tool**: Select your interests and values to match with potential occupations.
