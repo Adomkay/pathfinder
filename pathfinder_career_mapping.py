@@ -119,7 +119,7 @@ work_values_df = pd.read_excel("Work Values.xlsx")
 occupation_data_df = pd.read_excel("Occupation Data.xlsx")
 
 # App navigation
-st.sidebar.title("🧭 Pathfinder Education")
+st.sidebar.title("🧭 Pathfinder Career Mapping")
 section = st.sidebar.radio("Choose a section:", ["🧩 Occupation Matching Tool", "🏢 Occupation Profiles"])
 
 if section == "🧩 Occupation Matching Tool":
